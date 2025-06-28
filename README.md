@@ -13,4 +13,5 @@ This picture shows that the heart rate and oxygen values are almost identical to
 
 After attempting the module build, the following reference circuit diagrams are provided for more integrated products
 
-![image](https://github.com/user-attachments/assets/f2c9a496-e921-4b2d-b102-89785e4475a6)
+
+![SCH_Schematic1_2025-06-28](https://github.com/user-attachments/assets/3ef80611-16f7-41df-93eb-630e33a77d05)
