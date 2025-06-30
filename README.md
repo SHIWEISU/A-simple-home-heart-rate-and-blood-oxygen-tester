@@ -21,3 +21,8 @@ After attempting the module build, the following reference circuit diagrams are 
 The following figure is the simple home heart rate and blood oxygen tester PCB design principle, for reference only, because I did not do the test, according to the schematic design of their own PCB.
 
 ![3D_PCB1_2025-06-30](https://github.com/user-attachments/assets/a09e9e28-e892-43be-9bce-747fc7d6bca3)
+
+In view of the MAX30102 welding difficulties, you can also buy the following module directly inserted in the main control PCB board H2, to achieve the same effect:
+
+![image](https://github.com/user-attachments/assets/c962eb44-4612-4fa3-ac83-c5ce46484f18)
+
