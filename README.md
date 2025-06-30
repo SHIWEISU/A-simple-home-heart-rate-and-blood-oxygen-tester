@@ -5,6 +5,7 @@ Here is a simple demo based on the proven module：
 
 https://github.com/user-attachments/assets/06c2df02-a329-47d0-97bd-264f78bfdfbb
 
+
 After putting your finger on it for 3~5 seconds, the module will calculate your heart rate, blood oxygen and current PPG waveform and display it accurately on the OLED screen.
 
 ![图片1](https://github.com/user-attachments/assets/e1a95326-4c1d-44dd-8dff-f165ce495931)
@@ -15,3 +16,8 @@ After attempting the module build, the following reference circuit diagrams are 
 
 
 ![SCH_Schematic1_2025-06-28](https://github.com/user-attachments/assets/3ef80611-16f7-41df-93eb-630e33a77d05)
+
+
+The following figure is the simple home heart rate and blood oxygen tester PCB design principle, for reference only, because I did not do the test, according to the schematic design of their own PCB.
+
+![3D_PCB1_2025-06-30](https://github.com/user-attachments/assets/a09e9e28-e892-43be-9bce-747fc7d6bca3)
